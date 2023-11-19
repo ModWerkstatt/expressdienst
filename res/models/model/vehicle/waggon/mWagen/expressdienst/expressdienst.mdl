@@ -292,12 +292,6 @@ return {
 				},
                 {
 					axles = { "vehicle/waggon/mWagen/allgemein/rad_lod1.msh", },
-					backBackwardParts = { },
-					backForwardParts = { 13, },
-					frontBackwardParts = { },
-					frontForwardParts = { },
-					innerBackwardParts = { },
-					innerForwardParts = { },
 				},
                 {
 					axles = { "vehicle/waggon/mWagen/allgemein/rad_lod2.msh", },
