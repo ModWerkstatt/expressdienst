@@ -93,6 +93,12 @@ return {
 						name = "licht",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
+					{
+                        materials = { "vehicle/waggon/mWagen/red_lights.mtl", },
+						mesh = "vehicle/waggon/mWagen/expressdienst/zugschlussleuchte_lod0.msh",
+						name = "licht",
+						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
 				},
 				name = "RootNode",
 				transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -283,7 +289,7 @@ return {
 			configs = {
                 {
 					axles = { "vehicle/waggon/mWagen/allgemein/rad_lod0.msh", },
-					backBackwardParts = { },
+					backBackwardParts = { 14, },
 					backForwardParts = { 13, },
 					frontBackwardParts = { },
 					frontForwardParts = { },
