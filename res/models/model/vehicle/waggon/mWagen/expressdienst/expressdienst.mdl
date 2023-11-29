@@ -336,7 +336,7 @@ return {
 			},
 			loadSpeed = 2,
 			multipleUnitOnly = false,
-			reversible = true,
+			reversible = false,
             groupFileName = "vehicle/waggon/mWagen/packwagen/menu_packwagen.mdl",
 		},
 	},
