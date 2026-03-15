@@ -1,0 +1,45 @@
+{
+    "dependencies": [
+        {
+            "loadBefore": true,
+            "mod": {
+                "modId": "mw_packwagen",
+                "revisionMin": 1,
+                "revisionMax": -1
+            },
+            "modInfo": {
+                "displayName": "ModWerkstatt Pack and mail wagons DB",
+                "url": "https://modwerkstatt.com/downloads/tpf3/pack-und-postwagen"
+            },
+            "optional": true
+        },
+        {
+            "loadBefore": true,
+            "mod": {
+                "modId": "mw_mwagen",
+                "revisionMin": 1,
+                "revisionMax": -1
+            },
+            "modInfo": {
+                "displayName": "ModWerkstatt UIC-X Coaches",
+                "url": "https://modwerkstatt.com/downloads/tpf3/uic-x-wagen-m-wagen"
+            },
+            "optional": false
+        }
+    ],
+    "incompatibilities": null,
+    "modId": "mw_expressdienst",
+    "params": null,
+    "postRunScript": {
+        "fileName": ""
+    },
+    "preRunScript": {
+        "fileName": ""
+    },
+    "revision": 1,
+    "runScript": {
+        "fileName": ""
+    },
+    "severityAdd": "None",
+    "severityRemove": "Warning"
+}

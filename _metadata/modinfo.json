@@ -1,0 +1,22 @@
+{
+    "name": "DB Luggage cart of the City-Bahn \"Expressdienst\"",
+    "summary": "Express Service Luggage Cart for Rapid Transit.",
+    "description": "This mod contains the baggage car of the City-Bahn, which ran under the label \"Express Service\". The cars were painted in the City-Bahn design and ran in the City-Bahn trains.",
+    "localization" : {
+        "de": {
+            "name": "Gepäckwagen der City-Bahn \"Expressdienst\"",
+            "summary": "Expressdienst-Gepäckwagen für den Stadtschnellverkehr.",
+            "description": "Dieser Mod enthält den Gepäckwagen der City-Bahn die unter dem Label \"Expressdienst\" liefen. Die Wagen waren im City-Bahn-Design lackiert und liefen in den City-Bahn-Zügen."
+        }
+    },
+    "authors": [
+        {
+            "name": "Modwerkstatt",
+            "role": "CREATOR"
+        }
+    ],
+    "tags": [
+        "Waggon"
+    ],
+    "url": "https://modwerkstatt.com/downloads/tpf3/expressdienst"
+}
