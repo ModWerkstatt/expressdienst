@@ -320,12 +320,12 @@ return {
 	    		bbMin = { -13.17599964141845703125, -1.45722997188568115234375, 0, },
 			},
 			landVehicle = {
-				brakeDeceleration = 2.5,
+				brakeDeceleration = 0.9,
 				engines = { },
 				friction = 0.0199999995529651641845703125,
 				topSpeed = 38.888889312744140625,
-				weightEmpty = 33000,
-				weightMaxPayload = 0,
+				weightEmpty = 36000,
+				weightMaxPayload = 20000,
 			},
 			lightSourceList = {
 				lights = {
